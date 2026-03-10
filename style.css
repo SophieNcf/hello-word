@@ -43,3 +43,13 @@ p {
 .btn:hover {
   background-color: #4f46e5;
 }
+
+body.light {
+  background-color: #f8fafc;
+  color: #0f172a;
+}
+
+body.light .btn {
+  background-color: #6366f1;
+  color: white;
+}
