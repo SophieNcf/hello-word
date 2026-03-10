@@ -38,8 +38,6 @@ p {
   border-radius: 8px;
   font-size: 1rem;
   transition: background-color 0.2s;
-  cursor: pointer;
-
 }
 
 .btn:hover {
